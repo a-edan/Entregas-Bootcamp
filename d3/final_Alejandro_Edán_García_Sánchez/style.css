@@ -1,0 +1,11 @@
+.ganador {
+    fill:green;
+}
+
+.perdedor {
+    fill: red
+}
+
+.otro {
+    fill: lightgray;
+}
